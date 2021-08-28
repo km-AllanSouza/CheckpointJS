@@ -1,5 +1,5 @@
 //Grupo : 1
-// Integrantes: Allan Medeiros, Ezio Lorenzetti, Rodrigo da Silva, Lucas Mota, Lucas Alacântara, Gabriela Gomes.
+// Integrantes: Allan Medeiros, Ezio Lorenzetti, Rodrigo da Silva, Lucas Mota, Lucas Alacântara, Gabriella Gomes.
 
 /*
 1 - Pipoca – 10 segundos (padrão);
