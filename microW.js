@@ -32,7 +32,7 @@ function microW(opt,temp){
 
         case 2: //2 - Macarrão – 8 segundos (padrão);
             if (temp < 8){
-                console.log('Tempo insuficiente para estourar pipocas')
+                console.log('Tempo insuficiente para cozinhar macarrão')
 
             }else if(temp >= 16 && temp <24){
                 console.log('Macarrão Queimado')
@@ -46,7 +46,7 @@ function microW(opt,temp){
 
         case 3: //3 - Carne – 15 segundos (padrão);
             if (temp < 15){
-                console.log('Tempo insuficiente para estourar pipocas')
+                console.log('Tempo insuficiente para cozinhar carne')
 
             }else if(temp >= 30 && temp <45){
                 console.log('Carne Queimada')
@@ -60,7 +60,7 @@ function microW(opt,temp){
 
         case 4: //4 - Feijão – 12 segundos (padrão);
             if (temp < 12){
-                console.log('Tempo insuficiente para estourar pipocas')
+                console.log('Tempo insuficiente para cozinhar feijão')
 
             }else if(temp >= 24 && temp <36){
                 console.log('Cheiro de feijão Queimada')
@@ -74,7 +74,7 @@ function microW(opt,temp){
 
         case 5: //5 - Brigadeiro – 8 segundos (padrão); 
             if (temp < 8){
-                console.log('Tempo insuficiente para estourar pipocas')
+                console.log('Tempo insuficiente para preparar brigadeiro')
 
             }else if(temp >= 16 && temp <24){
                 console.log('Brigadeiro Queimado')
